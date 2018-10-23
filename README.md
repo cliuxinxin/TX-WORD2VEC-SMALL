@@ -11,19 +11,19 @@
 
 45000-small.txt 这个有4.5w的词，已经能解决很多问题了
 
-70000-small.txt 7w词
+70000-small.txt 7w词  133MB
 https://pan.baidu.com/s/1DprHD8HwEqkWRBG0ss2y1A
 
-100000-small.txt 10w词
+100000-small.txt 10w词 190MB
 https://pan.baidu.com/s/1KqPOwfrw3KoLJqTsCUdriA
 
-500000-small.txt 50w词
+500000-small.txt 50w词 953MB
 https://pan.baidu.com/s/1SGwxpGW8HjYw8HdKQUB8Gw
 
-1000000-small.txt 100w词
+1000000-small.txt 100w词 1.9GB
 https://pan.baidu.com/s/1ObstPl7R8o1L98Ag9owGiw
 
-2000000-small.txt 200w词
+2000000-small.txt 200w词 3.8GB
 https://pan.baidu.com/s/1hmCiMandgyedjmP520_Aog
 
 再大就自己去下载吧
