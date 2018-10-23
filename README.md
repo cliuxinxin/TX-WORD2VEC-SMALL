@@ -11,23 +11,42 @@
 
 45000-small.txt 这个有4.5w的词，已经能解决很多问题了
 
-再大就没意义了，自己去下载吧，看看readme.txt文件中有说明
+70000-small.txt 7w词
+https://pan.baidu.com/s/1DprHD8HwEqkWRBG0ss2y1A
+
+100000-small.txt 10w词
+https://pan.baidu.com/s/1KqPOwfrw3KoLJqTsCUdriA
+
+500000-small.txt 50w词
+https://pan.baidu.com/s/1SGwxpGW8HjYw8HdKQUB8Gw
+
+1000000-small.txt 100w词
+https://pan.baidu.com/s/1ObstPl7R8o1L98Ag9owGiw
+
+2000000-small.txt 200w词
+https://pan.baidu.com/s/1hmCiMandgyedjmP520_Aog
+
+再大就自己去下载吧
+
+https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz
 
 ## 如何使用
 
 ### 读取模型
 
+```python
 from gensim.models import KeyedVectors
 
 model = KeyedVectors.load_word2vec_format("50-small.txt")
-
+```
 ### 把玩模型
 
+```python
 model.most_similar(positive=['女', '国王'], negative=['男'], topn=1)
 
 model.doesnt_match("上海 成都 广州 北京".split(" "))
 
 model.similarity('女人', '男人')
-
+```
 
 
