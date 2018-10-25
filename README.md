@@ -60,7 +60,7 @@ model.most_similar('特朗普',topn=10)
 https://pan.baidu.com/s/1WbqoCKsmrnpf6n5ZTV-fKA
 
 然后下载库对应的分词包。
-https://pan.baidu.com/s/1dG8lwmAv0gBSlGdWGmVt4A
+https://pan.baidu.com/s/19busyY1yysbOgdYWxIaIQA
 
 加载70000字典前
 ![Image text](https://github.com/cliuxinxin/TX-WORD2VEC-SMALL/blob/master/pics/WX20181025-142826%402x.png)
