@@ -35,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="322" />
+          <entry key="md" value="349" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="317" />
+          <entry key="Markdown" value="344" />
           <entry key="Python" value="5" />
         </counts>
       </usages-collector>
@@ -52,8 +52,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="496">
-                <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+              <first_editor relative-caret-position="497">
+                <caret line="68" column="105" selection-start-line="68" selection-start-column="105" selection-end-line="68" selection-end-column="105" />
               </first_editor>
               <second_editor />
             </state>
@@ -117,6 +117,11 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pics" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -176,14 +181,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WX20181025-142826@2x.png">
+    <entry file="file://$PROJECT_DIR$/pics/WX20181025-142826@2x.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="496">
-            <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <first_editor relative-caret-position="497">
+            <caret line="68" column="105" selection-start-line="68" selection-start-column="105" selection-end-line="68" selection-end-column="105" />
           </first_editor>
           <second_editor />
         </state>

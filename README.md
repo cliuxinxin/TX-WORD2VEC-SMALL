@@ -63,8 +63,11 @@ https://pan.baidu.com/s/1WbqoCKsmrnpf6n5ZTV-fKA
 https://pan.baidu.com/s/1dG8lwmAv0gBSlGdWGmVt4A
 
 加载70000字典前
+![Image text](https://github.com/cliuxinxin/TX-WORD2VEC-SMALL/blob/master/pics/WX20181025-142826%402x.png)
 
 加载70000字典后
+![Image text](https://github.com/cliuxinxin/TX-WORD2VEC-SMALL/blob/master/pics/WX20181025-142850%402x.png)
+
 
 代码文件见
 Use Tencent Word Embeddings with douban datasets.ipynb
