@@ -72,4 +72,8 @@ https://pan.baidu.com/s/1dG8lwmAv0gBSlGdWGmVt4A
 代码文件见
 Use Tencent Word Embeddings with douban datasets.ipynb
 
+抛转引玉，如果有哪位朋友有功夫更新其他的模型或者数据库，还原request pull
+
+有问题也可以开issue
+
 
