@@ -52,4 +52,21 @@ model.most_similar('特朗普',topn=10)
 
 ```
 
+### 深度模式示例
+
+首先下载豆瓣的数据
+
+豆瓣评论数据149M
+https://pan.baidu.com/s/1WbqoCKsmrnpf6n5ZTV-fKA
+
+然后下载库对应的分词包。
+https://pan.baidu.com/s/1dG8lwmAv0gBSlGdWGmVt4A
+
+加载70000字典前
+
+加载70000字典后
+
+代码文件见
+Use Tencent Word Embeddings with douban datasets.ipynb
+
 
