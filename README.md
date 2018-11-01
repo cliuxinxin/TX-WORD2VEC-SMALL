@@ -54,6 +54,8 @@ model.most_similar('特朗普',topn=10)
 
 ### 深度模式示例
 
+使用LSTM模型，根据豆瓣评论，预测打分。
+
 首先下载豆瓣的数据
 
 豆瓣评论数据149M
@@ -72,7 +74,7 @@ https://pan.baidu.com/s/19busyY1yysbOgdYWxIaIQA
 代码文件见
 Use Tencent Word Embeddings with douban datasets.ipynb
 
-抛转引玉，如果有哪位朋友有功夫更新其他的模型或者数据库，还原request pull
+抛转引玉，如果有哪位朋友有功夫更新其他的模型或者数据库，还可以request pull
 
 有问题也可以开issue
 
