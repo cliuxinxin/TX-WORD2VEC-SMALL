@@ -28,7 +28,7 @@ https://pan.baidu.com/s/1hmCiMandgyedjmP520_Aog
 
 再大就自己去下载吧
 
-https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz
+https://ai.tencent.com/ailab/nlp/en/data/Tencent_AILab_ChineseEmbedding.tar.gz
 
 ## 如何使用
 
