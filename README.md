@@ -78,4 +78,10 @@ Use Tencent Word Embeddings with douban datasets.ipynb
 
 有问题也可以开issue
 
+都看到这里了，加入QQ群跟老司机们一起讨论下吧：
+
+python自然语言处理 644612230
+
+![image](https://user-images.githubusercontent.com/6162238/115372082-22f1c580-a1fd-11eb-984c-7ff5fcab742a.png)
+
 
