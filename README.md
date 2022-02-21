@@ -1,3 +1,13 @@
+# 2022年02月21日 更新
+
+官方2021-12-24日发布新版本了，有两个维度可以选择，100D和200D，官方也给了个大的和小的版本下载。
+
+我估计原来的代码还能用，有兴趣的朋友可以试试给我pull，我review以后就合并。
+
+https://ai.tencent.com/ailab/nlp/en/download.html
+
+
+
 # TX-WORD2VEC
 
 腾讯开源的word2vec模型。
