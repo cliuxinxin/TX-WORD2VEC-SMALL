@@ -22,19 +22,19 @@ https://ai.tencent.com/ailab/nlp/en/download.html
 45000-small.txt 这个有4.5w的词，已经能解决很多问题了
 
 70000-small.txt 7w词  133MB
-链接: https://pan.baidu.com/s/1Jo8coD2huUXU-ilSu6uwaA?pwd=4nqp 提取码: 4nqp 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: https://pan.baidu.com/s/1Hm0wlhdi-MEUGyGcP73Kfg?pwd=m4qp 提取码: m4qp 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 100000-small.txt 10w词 190MB
-链接: https://pan.baidu.com/s/1upG5PyuKSdhva2Sx381Dag?pwd=i3wg 提取码: i3wg 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: https://pan.baidu.com/s/1E3olhKipWj71wHO0GIlDqg?pwd=4eat 提取码: 4eat 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 500000-small.txt 50w词 953MB
-链接: https://pan.baidu.com/s/1AQdlZkQT7EAx4Mxb5ESpyw?pwd=3982 提取码: 3982 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: https://pan.baidu.com/s/1E3olhKipWj71wHO0GIlDqg?pwd=4eat 提取码: 4eat 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 1000000-small.txt 100w词 1.9GB
-链接: https://pan.baidu.com/s/1hIZKfxReXL6kyjp_L57YeA?pwd=nnex 提取码: nnex 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: https://pan.baidu.com/s/1GF-kv3zMkU33ramQhS08Ng?pwd=iezh 提取码: iezh 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 2000000-small.txt 200w词 3.8GB
-链接: https://pan.baidu.com/s/12Ygkgo3J9cq4hWV8NiucSQ?pwd=63gs 提取码: 63gs 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: https://pan.baidu.com/s/1w8jvMxLq4RlZkmtjg_HEvA?pwd=r23n 提取码: r23n 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 再大就自己去下载吧
 
